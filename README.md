@@ -9,3 +9,13 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steju4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="left">
+  <a href="https://github.com/steju4/informatik-vorkurs">
+    <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/pin/?username=steju4&repo=informatik-vorkurs&theme=tokyonight&hide_border=true" alt="Repo Card"/>
+  </a>
+</p>
+
+<p align="left">
+  <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/gist/?id=DEINE_GIST_ID&theme=tokyonight&hide_border=true" alt="Gist Card"/>
+</p>
