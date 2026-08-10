@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi 👋, ich bin Julian
+<br>
 
-<!--
-**steju4/steju4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=steju4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steju4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steju4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=steju4&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
