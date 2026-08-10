@@ -9,7 +9,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steju4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=steju4&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
