@@ -11,11 +11,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/steju4/informatik-vorkurs">
-    <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/pin/?username=steju4&repo=informatik-vorkurs&theme=tokyonight&hide_border=true" alt="Repo Card"/>
+  <a href="https://github.com/steju4/fuchszunft-menningen">
+    <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/pin/?username=steju4&repo=fuchszunft-menningen&theme=tokyonight&hide_border=true" alt="Repo Card"/>
   </a>
-</p>
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/gist/?id=DEINE_GIST_ID&theme=tokyonight&hide_border=true" alt="Gist Card"/>
 </p>
