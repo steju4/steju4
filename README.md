@@ -10,8 +10,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steju4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="left">
-  <a href="https://github.com/steju4/fuchszunft-menningen">
-    <img height="150em" src="https://github-readme-stats-tau-rose-69.vercel.app/api/pin/?username=steju4&repo=fuchszunft-menningen&theme=tokyonight&hide_border=true" alt="Repo Card"/>
-  </a>
-</p>
